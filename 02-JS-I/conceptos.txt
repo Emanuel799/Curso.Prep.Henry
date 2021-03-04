@@ -1,0 +1,6 @@
+Conceptos
+Variables: son valores que se guardan para usarlos después. Se pueden cambiar.
+Strings: son un tipo de variable en forma de texto que se escriben entre comillas.
+Funciones: son objetos con nombres que se invocan para trabajar con las variables.
+If: es un operador que se usa para verificar si algo es verdadero(true) o falso(false).
+Valores booleans: son un tipo de variable que pueden tener significado verdadero(true) o falso(false).
