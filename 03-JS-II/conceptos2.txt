@@ -1,0 +1,8 @@
+Definición de conceptos
+
+BUCLE FOR: es un statement que permite repetir bloques de códigos muchas veces. Tiene condición de frenado e incremento de valor.
+
+&&: significa Y ó AND. Es un operador lógico que determina si varias expresiones de igualdad combinadas son verdaderas todas. 
+||: significa OR u Ó. Es un operador lógico que entre varias expresiones combinadas si una de ellas resulta verdadera (true) determina que es verdadera la expresión completa.
+!: significo NOT o NO. Es un operador lógico que niega la expresión, es decir, es lo opuesto.
+
